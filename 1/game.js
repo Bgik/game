@@ -1,7 +1,0 @@
-var button = document.getElementById("button1");
-button.onclick = function () {
-    if  (button.style.backgroundImage != url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fp16-sign-sg.tiktokcdn.com%2Faweme%2F720x720%2Ftos-alisg-avt-0068%2Feb2fc5f724cb9b6f5281bc4ac3d4b728.jpeg%3Fx-expires%3D1663081200%26x-signature%3D%252Bo25AHzm7NvWdJWHH7W%252FgKq%252BL%252Fk%253D&imgrefurl=https%3A%2F%2Fwww.tiktok.com%2Fdiscover%2F%25D1%2580%25D0%25B5%25D0%25BC%25D0%25B5%25D0%25B9%25D0%25BA-%25D0%25B4%25D0%25BE%25D0%25BA%25D1%2582%25D0%25BE%25D1%2580%25D0%25B0-%25D0%25BB%25D0%25B8%25D0%25B2%25D1%2581%25D0%25B8%3Flang%3Dsv-SE&tbnid=WHXA9CtL7jxc9M&vet=10CBoQxiAoBGoXChMIsIyHq8bf-gIVAAAAAB0AAAAAEAY..i&docid=sA15gak7pMrFfM&w=656&h=656&itg=1&q=%D0%BB%D0%B8%D0%B2%D1%81%D0%B8&ved=0CBoQxiAoBGoXChMIsIyHq8bf-gIVAAAAAB0AAAAAEAY")) 
-    {
-        button.style.backgroundImage = url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fp16-sign-sg.tiktokcdn.com%2Faweme%2F720x720%2Ftos-alisg-avt-0068%2Feb2fc5f724cb9b6f5281bc4ac3d4b728.jpeg%3Fx-expires%3D1663081200%26x-signature%3D%252Bo25AHzm7NvWdJWHH7W%252FgKq%252BL%252Fk%253D&imgrefurl=https%3A%2F%2Fwww.tiktok.com%2Fdiscover%2F%25D1%2580%25D0%25B5%25D0%25BC%25D0%25B5%25D0%25B9%25D0%25BA-%25D0%25B4%25D0%25BE%25D0%25BA%25D1%2582%25D0%25BE%25D1%2580%25D0%25B0-%25D0%25BB%25D0%25B8%25D0%25B2%25D1%2581%25D0%25B8%3Flang%3Dsv-SE&tbnid=WHXA9CtL7jxc9M&vet=10CBoQxiAoBGoXChMIsIyHq8bf-gIVAAAAAB0AAAAAEAY..i&docid=sA15gak7pMrFfM&w=656&h=656&itg=1&q=%D0%BB%D0%B8%D0%B2%D1%81%D0%B8&ved=0CBoQxiAoBGoXChMIsIyHq8bf-gIVAAAAAB0AAAAAEAY");
-    }
-}
